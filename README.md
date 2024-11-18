@@ -1,6 +1,6 @@
 # Financial Transaction Fraud Detection
 
-This Jupyter Notebook provides a comprehensive guide to detecting fraudulent financial transactions using a Random Forest Classifier. The notebook is structured into several sections, each focusing on a specific aspect of the data analysis and model building process.
+This Jupyter Notebook provides a Thorough guide to detecting fraudulent financial transactions using a Random Forest Classifier. The notebook is structured into several sections, each focusing on a specific aspect of the data analysis and model building process. Please note that the data used for this model is synthetically created through Python, and there may be small possibilities of issues. This project is a concept prototype and not intended for production use.
 
 We begin by importing essential Python libraries such as pandas and numpy for data manipulation and numerical computations, matplotlib and seaborn for visualizations to understand the dataset, and sklearn for data preprocessing, model training, and evaluation.
 
